@@ -5,8 +5,12 @@ The purpose of this analysis was to generate a district and school summary from 
 ---
 ## Results
 - Overall the Discrict and School Summary were only slightly affected by about 1.0% decrease in average math scores, % passing math, % passing reading, and % overall passing. 
-- Replacing the ninth-grade scores negativley affected Thomas High School’s performance relative to the other schools. As seen displayed in the data sets below, Thomas High school drops off the top five list of schools based on highest % overall passing rate following the updated analisys. This is likley a result from the significant decrease (by about 26%) in % pasisng math, % passing reading, and % overall passing following the update![picture alt](https://github.com/ChristinaGalley/School_District_Analysis/blob/main/Resources/top_five_schools_original.PNG)![picture alt](https://github.com/ChristinaGalley/School_District_Analysis/blob/main/Resources/Top_five_schools_updated.PNG)
-    - Replacing the ninth-grade scores also affected the following as described:
+- Replacing the ninth-grade scores negativley affected Thomas High School’s performance relative to the other schools. As seen displayed in the data sets below, Thomas High school drops off the top five list of schools based on highest % overall passing rate following the updated analisys. This is likley a result from the significant decrease (by about 26%) in % pasisng math, % passing reading, and % overall passing following the update.
+    Top Five List of Schools, Original
+    ![picture alt](https://github.com/ChristinaGalley/School_District_Analysis/blob/main/Resources/top_five_schools_original.PNG)
+    Top Five List of Schools, Updated
+    ![picture alt](https://github.com/ChristinaGalley/School_District_Analysis/blob/main/Resources/Top_five_schools_updated.PNG)
+- Replacing the ninth-grade scores also affected the following as described:
      - Math and reading scores by grade - no changes in grades 10-12, 9th grade scores are marked as NaN.
      - Scores by school spending - % pasisng math, % passing reading, and % overall passing in the $630-644 spending range all decreased by about 7.0% following the update.
      - Scores by school size - % pasisng math, % passing reading, and % overall passing in the medium sized school category all decreased by about 6.0% following the update.
