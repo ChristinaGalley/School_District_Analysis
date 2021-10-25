@@ -1,4 +1,4 @@
-# **School_District_Analysis
+# **School_District_Analysis**
 ---
 ## Project Overview
 The purpose of this analysis was to generate a district and school summary from which high and low performing schools, math and reading scores by grade, scores by school spending, scores by school size, and scores by school type may be compared. After the initial analysis, alterations in the Thomas High School 9th grade math and reading scores were found which indicated academic dishonesty. A second analysis was performed after removing the math and reaidng scores associated with the Thomas High School 9th graders.
