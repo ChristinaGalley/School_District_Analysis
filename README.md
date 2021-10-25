@@ -7,10 +7,10 @@ The purpose of this analysis was to generate a district and school summary from 
 - Overall the Discrict and School Summary were only slightly affected by about 1.0% decrease in average math scores, % passing math, % passing reading, and % overall passing. 
 - Replacing the ninth-grade scores negativley affected Thomas High School’s performance relative to the other schools. As seen displayed in the data sets below, Thomas High school drops off the top five list of schools based on highest % overall passing rate following the updated analisys. This is likley a result from the significant decrease (by about 26%) in % pasisng math, % passing reading, and % overall passing following the update.
     
-    **Top Five List of Schools, Original**
+    **Top Five List of Schools, Original:**
     ![picture alt](https://github.com/ChristinaGalley/School_District_Analysis/blob/main/Resources/top_five_schools_original.PNG)
     
-    **Top Five List of Schools, Updated**
+    **Top Five List of Schools, Updated:**
     ![picture alt](https://github.com/ChristinaGalley/School_District_Analysis/blob/main/Resources/Top_five_schools_updated.PNG)
 
 - Replacing the ninth-grade scores also affected the following as described:
